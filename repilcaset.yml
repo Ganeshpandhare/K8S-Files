@@ -7,7 +7,7 @@ metadata:
      tier: forntend
 spec:
    replicas: 3
-   selector
+   selector:
      matchLabels:
        tier: forntend
    template: 
